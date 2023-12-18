@@ -11,7 +11,7 @@
           @click="toggleLeftDrawer"
         />
 
-        <q-toolbar-title>Prueba Online Quasar</q-toolbar-title>
+        <q-toolbar-title>Prueba Online Quasar x</q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
